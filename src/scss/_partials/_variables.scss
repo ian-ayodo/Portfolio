@@ -1,0 +1,75 @@
+//dimensions
+$dimen : (
+    //root 
+    "zero" : 0,
+    "viewport-height" : 100vh,
+    "viewport-width" : 100vw,
+    "full-heigh" : 100%,
+    "full-width" : 100%,
+    "padding-left-right" : 12vh,
+    "padding-top-bottom" : 0vh,
+    "element-vertical-spacing" : 4vh,
+    "element-horizontal-spacing" : 2vh,
+    
+    //spacing
+    "twenty-vertical" : 2vh,
+    "twenty-horizontal" : 1.5vh,
+    "thirty-vertical" : 4vh,
+    "thirty-horizontal" : 2vw,
+    "fifty-vertical" : 6vh,
+    "fifty-horizontal" : 3vw,
+    "seventy-vertical" : 8vh,
+    "seventy-horizontal" : 4vw,
+    "eighty-vertical" : 10vh,
+    "eighty-horizontal" : 5vw,
+    "one-hundred-vertical" : 12vh,
+    "one-hundred-horizontal" : 6vw
+
+);
+
+$font : (
+    
+    //....................Web font sizes....................//
+    "name" : 6rem,
+    "job-description" : 1.5rem,
+    "body" : 1.125rem,
+    "small-font" : 1rem,
+    "page-title" : 2.5rem,
+
+    //project fonts
+    "project-title" : 1.875rem,
+    "project-desc" : 1.25rem,
+    
+
+
+     //....................Tablet font sizes....................//
+    "tablet-name" : 3.75rem,
+    "tablet-job-description" : 1.125rem,
+    "tablet-body" : 1rem,
+    "tablet-small-font" : 1rem,
+    "tablet-page-title" : 1.5rem,
+
+    //tablet project fonts
+    "tablet-project-title" : 1.125rem,
+    "tablet-project-desc" : 1rem,
+
+
+     //....................Mobile font sizes....................//
+    "mobile-name" : 3.125rem,
+    "mobile-job-description" : 0.875rem,
+    "mobile-body" : 0.875rem,
+    "mobile-small-font" : 0.75rem,
+    "mobile-page-title" : 1.5rem,
+
+    //mobile project fonts
+    "mobile-project-title" : 1rem,
+    "mobile-project-desc" : 0.875rem
+
+);
+
+$color : (
+    "primary-color" : #5D2CF6,
+    "background-color" : white,
+    "font-color" :  #301301,
+    "dove-gray" : #666666
+);
